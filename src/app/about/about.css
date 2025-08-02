@@ -1,0 +1,24 @@
+body{
+    position: relative; 
+    height: 100vh;
+}
+.title h1{
+    margin-bottom: 30px;
+    border-bottom: 5px solid purple ;
+    padding: 30px 0 10px 0;
+}
+.about p{
+    line-height: 30px;
+    text-align: center;
+    padding: 20px 0;
+}
+@media (max-width:426px) {
+    body{
+        height: 165vh;
+    }
+}
+@media (min-width:426px) and (max-width:776px) {
+    body{
+        height: 130vh;
+    }
+}
