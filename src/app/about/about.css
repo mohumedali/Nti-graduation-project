@@ -1,6 +1,5 @@
 body{
     position: relative; 
-    height: 100vh;
 }
 .title h1{
     margin-bottom: 30px;
@@ -12,13 +11,4 @@ body{
     text-align: center;
     padding: 20px 0;
 }
-@media (max-width:426px) {
-    body{
-        height: 165vh;
-    }
-}
-@media (min-width:426px) and (max-width:776px) {
-    body{
-        height: 130vh;
-    }
-}
+

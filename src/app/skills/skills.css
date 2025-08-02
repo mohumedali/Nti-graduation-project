@@ -12,7 +12,7 @@
     font-size: 20px;
     position: absolute;
     bottom: -80px;
-    left: 15px;
+    left: 25px;
 }
 .icons:hover{
     transform: translateY(-12px);

@@ -1,6 +1,5 @@
 body{
     position: relative; 
-    height: 100vh;
 }
 span{
     color: purple;
@@ -57,7 +56,5 @@ line-height: 30px;
     .my-info{
         text-align: center;
     }
-    body{
-        height: 150vh;
-    }
+
 }
